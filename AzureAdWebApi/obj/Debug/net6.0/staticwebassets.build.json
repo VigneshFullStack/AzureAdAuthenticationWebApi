@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Mcpcjptd37vYClYkP3Q45sdz1tLlGw4cOtjczLmvvmQ=",
+  "Source": "AzureAdWebApi",
+  "BasePath": "_content/AzureAdWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

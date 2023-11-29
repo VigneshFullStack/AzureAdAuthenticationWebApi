@@ -1,0 +1,128 @@
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\AzureAdWebApi.exe
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\AzureAdWebApi.deps.json
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\AzureAdWebApi.runtimeconfig.json
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\AzureAdWebApi.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\AzureAdWebApi.pdb
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Abstractions.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.csproj.AssemblyReference.cache
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.AssemblyInfoInputs.cache
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.AssemblyInfo.cs
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.csproj.CoreCompileInputs.cache
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\staticwebassets\msbuild.AzureAdWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AzureAdWebApi.props
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AzureAdWebApi.props
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AzureAdWebApi.props
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\scopedcss\bundle\AzureAdWebApi.styles.css
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.csproj.CopyComplete
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\refint\AzureAdWebApi.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.pdb
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.genruntimeconfig.cache
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Authentication&Authorization\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\ref\AzureAdWebApi.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\AzureAdWebApi.exe
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\AzureAdWebApi.deps.json
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\AzureAdWebApi.runtimeconfig.json
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\AzureAdWebApi.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\AzureAdWebApi.pdb
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Abstractions.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Web.Diagnostics.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Web.TokenAcquisition.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.csproj.AssemblyReference.cache
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.AssemblyInfoInputs.cache
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.AssemblyInfo.cs
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.csproj.CoreCompileInputs.cache
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\staticwebassets\msbuild.AzureAdWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AzureAdWebApi.props
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AzureAdWebApi.props
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AzureAdWebApi.props
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\scopedcss\bundle\AzureAdWebApi.styles.css
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.csproj.CopyComplete
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\refint\AzureAdWebApi.dll
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.pdb
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\AzureAdWebApi.genruntimeconfig.cache
+C:\Users\vignesh.venkatesan\Desktop\My Personal\Azure ad Authentication\AzureAdWebApi\AzureAdWebApi\obj\Debug\net6.0\ref\AzureAdWebApi.dll
